@@ -1,4 +1,4 @@
-# [JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+# Reading: [JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
 
 1. How would you describe an object to a non-technical friend you grew up with?
@@ -16,7 +16,7 @@
   }
 }``
 
-# [Introduction To The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+# Reading: [Introduction To The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 1. What is the DOM?
 2. Briefly describe the relationship between the DOM and JavaScript.
