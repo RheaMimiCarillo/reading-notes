@@ -7,14 +7,14 @@
 4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
 5. Evaluate the code below. What does the term this refer to and what is the advantage to using this?
 
-`const dog = {
+`` const dog = {
   name: 'Spot',
   age: 2,
   color: 'white with black spots',
   humanAge: function (){
-    console.log(\`${this.name} is ${this.age*7} in human years\`);
+    console.log(` ${this.name} is ${this.age*7} in human years `);
   }
-}`
+}``
 
 # [Introduction To The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
