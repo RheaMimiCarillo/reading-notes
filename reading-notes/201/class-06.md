@@ -2,6 +2,7 @@
 
 
 1. How would you describe an object to a non-technical friend you grew up with?
+An object in code to be the "idea" of and object all of the abstract things we attach to them. Take a can of Coke as an example: it has properties like `filled`,  
 2. What are some advantages to creating object literals?
 3. How do objects differ from arrays?
 4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
