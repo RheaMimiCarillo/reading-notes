@@ -1,2 +1,1 @@
-# rheamimicarillo.github.io
-Code Fellows reading notes
+# Code Fellows Code 201 Reading Notes
