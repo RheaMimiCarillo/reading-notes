@@ -6,7 +6,7 @@ Code 201 - Foundations of Software Development
 - Class 04 []()
 - Class 05 []()
 - Class 06: [Problem Domain, Objects, and the DOM](/class-06)
-- Class 07 []()
+- Class 07 [Object-Oriented Programming, HTML Tables](/class-07)
 - Class 08 []()
 - Class 09 []()
 - Class 10 []()
