@@ -1,4 +1,4 @@
-# Reading: Object-Oriented Programming, HTML Tables
+# Object-Oriented Programming, HTML Tables
 
 ## [Domain Modeling]([https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics](https://github.com/codefellows/domain_modeling#domain-modeling))
 
@@ -25,9 +25,9 @@
   - NOTE: This is a very common front end developer interview question
 
 
-# Bookmark and Review
+## Bookmark and Review
 
-# [HTML Table Advanced Features and Accessibility](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
+### [HTML Table Advanced Features and Accessibility](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
 
 
 
