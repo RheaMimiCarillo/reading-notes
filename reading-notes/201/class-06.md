@@ -38,3 +38,5 @@ An object in code to be the "idea" of and object all of the abstract things we a
 [What’s the difference between primitive values and object references in JavaScript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
 
 ## Things I want to know more about
+
+- the universe
