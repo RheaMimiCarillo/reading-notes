@@ -1,4 +1,7 @@
-# Reading: [JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+# Problem Domain, Objects, and the DOM
+
+
+## Reading: [JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
 
 1. How would you describe an object to a non-technical friend you grew up with?
@@ -21,10 +24,17 @@ An object in code to be the "idea" of and object all of the abstract things we a
   }
 }``
 
-# Reading: [Introduction To The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+## Reading: [Introduction To The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 1. What is the DOM?
 
 2. Briefly describe the relationship between the DOM and JavaScript.
+
+
+## Bookmark and Review:
+
+[Understanding the problem domain is the hardest part of programming](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming)
+
+[What’s the difference between primitive values and object references in JavaScript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
 
 ## Things I want to know more about
