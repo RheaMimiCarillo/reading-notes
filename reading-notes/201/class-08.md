@@ -14,7 +14,6 @@ Main axis can run in one direction, on either the x or y axis, and the cross axi
 
 Reordering items can be problematic for those who use screen readers. Screen readers present information from top down, as the are presented in the DOM. Reordering DOM elements may make visual, intuitive sense on the rendered page, but the visually impaired may not reap the same benefits.
 
-
 ## [CSS Layout - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 
 >Read up to “Flex-Flow Shorthand”
@@ -38,3 +37,7 @@ It's another tool in the toolbox for me. It feel like CSS is a lot of memorizati
 ## Things I want to know more about
 
 - How would we do our old labs different if we knew about flexbox?
+
+### [Previous Reading](./class-07.md)
+
+### [Next Reading](./class-09.md)
