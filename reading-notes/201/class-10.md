@@ -3,6 +3,9 @@
 ## [What Went Wrong? Troubleshooting JavaScript]https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong)
 
 1. Name some key differences between a **Syntax Error** and a **Logic Error**.
+I liken a syntax error to spelling and grammar mistakes, except in 'coding language'. A few examples would be missing a closing tag in HTML, or putting a curly brace in a random spot in JavaScript.
+
+A logic error is when everything is "spelled" right, but the code doesn't do what you wanted it to. For example, when making a ham sandwich, yo
 
 2. List a few types of errors that you have encountered in past lab assignments and explain how you were able to correct them.
 
