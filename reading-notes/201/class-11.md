@@ -1,6 +1,5 @@
 # Audio, Video, Images
 
-
 ## [Video and Audio Content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 
 1. Explain how the ability to use video and audio on the web has evolved since the early 2000s.
@@ -25,11 +24,12 @@
 
 2. Define the following `<img>` attributes: `srcset` and `sizes`. Write an example of how they are used.
 
+
 ## Bookmark and Review:
 
-[]()
+[](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
-[]()
+[Other Embedding Technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
 
 ## Things I want to know more about
 
