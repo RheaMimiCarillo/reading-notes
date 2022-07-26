@@ -32,7 +32,11 @@ Chart.js is a tool we can use to draw charts and graphs on the `<canvas>` elemen
 
 1. What are some advantages to displaying data via a chart over a table?
 
+Charts have the advantage of being easier to read and can display data visually in ways that are impossible in a table.
+
 2. How could Chart.js aid your previously created applications visually?
+
+On the Salmon Cookies lab, I could've made bar charts to visually display sales across every branch, which would've provided a visual scale to make comparisons much simpler.
 
 ## Bookmark and Review:
 
@@ -44,4 +48,4 @@ Chart.js is a tool we can use to draw charts and graphs on the `<canvas>` elemen
 
 ## Things I want to know more about
 
-- 
+- Are line, bar, and pie charts the only kinds of charts we can make in Chart.js?
