@@ -4,11 +4,14 @@
 ## [JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
 
 
-1. What does the `<canvas>` allow a develop to acheive?
+1. What does the `<canvas>` allow a developer to acheive?
+It allows a developer to create a 'canvas' to draw on using JavaScript.
 
 2. What is the importance of the closing `</canvas>`tag?
+Anything inside the beginning and closing canvas tags are 'fallback content' that will only display to the user if the browser doesn't suppport the `<canvas>` element.
 
 3. Explain what the `getContext()` method does.
+The `getContext()` method grabs the metaphorical 'paintbrush and palette' for drawing on a 2D plane on the canvas element.
 
 ## [Chart.js Documentation](http://www.chartjs.org/docs/)
 
