@@ -1,4 +1,4 @@
-# title
+# Local Storage
 
 
 ## [](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)
