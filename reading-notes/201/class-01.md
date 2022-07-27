@@ -21,8 +21,12 @@ The browser "parses" HTML doc first which will read the attached `<link>` and `<
 
 3. How can you find images to add to a Website?
 
+Using Google Images, we can search for pictures we want under the 'Creative Commons' option.
 
 4. How do you create a `String` vs a `Number` in JavaScript?
+
+In JS, we create `Strings` by entering the data with since quotes (''). 
+We create a 
 
 5. What is a `Variable` and why are they important in JavaScript?
 
