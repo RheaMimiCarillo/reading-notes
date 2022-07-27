@@ -14,6 +14,6 @@
 - Class 10: [Debugging](/reading-notes/201/class-10.md)
 - Class 11: [Audio, Video, Images](/reading-notes/201/class-11.md)
 - Class 12: [Chart.js, Canvas](/reading-notes/201/class-12.md)
-- Class 13: [(Local Storage)](/reading-notes/201/class-13.md)
+- Class 13: [Local Storage](/reading-notes/201/class-13.md)
 - Class 14a: [(tbd)](/reading-notes/201/class-14a.md)
 - Class 14b: [(tbd)](/reading-notes/201/class-15a.md)
