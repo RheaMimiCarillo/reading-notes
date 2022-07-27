@@ -17,7 +17,10 @@ Read the following sections of [JavaScript Basics](https://developer.mozilla.org
 
 2. Describe how HTML, CSS, and JS files are “parsed” in the browser.
 
+The browser "parses" HTML doc first which will read the attached `<link>` and `<script>` tags which leads the browser to begin parsing the JS and CSS files associated with those `<link>` and `<script>` tags.
+
 3. How can you find images to add to a Website?
+
 
 4. How do you create a `String` vs a `Number` in JavaScript?
 
