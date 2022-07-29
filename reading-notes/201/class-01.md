@@ -41,16 +41,36 @@ Read the beginning of [Getting Started with HTML](https://developer.mozilla.org/
 
 1. What is an HTML attribute?
 
-2. Describe the Anatomy of an HTMl element.
+An attribute is extra bits of data in an HTML element that aren't part of the content. Examples would be `class` and `id`.
+
+2. Describe the Anatomy of an HTML element.
+
+    1. The opening tag - the name of the element with these to enclose the name and attributes: `<>`
+    2. The content - things like text the user would see, or images, or links to click on
+    3. The closing tag - not every element has a closing tag, but those that do have a forward slash in them.
 
 3. What is the Difference between `<article>` and `<section>` element tags?
 
+The `<article>` tag is for content that can make sense on its own.
+The `<section>` tag is for a grouping of content that have a singular function. 
+Both tags can have each other nested within the other, depending on the context.
+
 4. What Elements does a “typical” website include?
+
+A "typical" website includes these tags at minimum:
+`<html>`
+`<head>`
+`<meta>`
+`<title>`
+`<body>`
 
 5. How does metadata influence Search Engine Optimization?
 
+The content of the `<title>` element is used in search engines. We can also include keywords in the `<meta>` element to further optimize search results.
+
 6. How is the `<meta>` HTML tag used when specifying metadata?
 
+The meta tag can be used to store data about the data of the page, like the author of the page, or the charset, or a summary of what the page is about, or keywords for search engines. 
 
 ## Miscellaneous
 
@@ -58,12 +78,18 @@ Read the beginning of [Getting Started with HTML](https://developer.mozilla.org/
 
 1. What is the first step to designing a Website?
 
+The first step of designing a website is *project ideation* which means figuring out exactly what the website is supposed to do and accomplish, before coding begins.
+
 2. What is the most important question to answer when designing a Website?
+
+> What exactly do I want to accomplish?
   
   
 [Semantics.](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
 1. Why should you use an `<h1>` element over a `<span>` element to display a top level heading?
+
+
 
 2. What are the benefits of using semantic tags in our HTML?
 
