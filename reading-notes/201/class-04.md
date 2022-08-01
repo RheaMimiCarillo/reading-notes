@@ -1,7 +1,8 @@
-# 
+# HTML Links, JS Functions, and Intro to CSS Layout
 
+## Reading
 
-## Reading: []()
+### [Learn HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 
 1. 
