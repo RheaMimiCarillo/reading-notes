@@ -18,4 +18,8 @@
 
 ## Bookmark and Review
 
-- [](https://reactjs.org/tutorial/tutorial.html)
+- [React Tutorial through 'Passing Data Through Props'](https://reactjs.org/tutorial/tutorial.html)
+- [React Docs - Hello world](https://reactjs.org/docs/hello-world.html)
+- [React Docs - Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [React Docs - Rendering elements](https://reactjs.org/docs/rendering-elements.html)
+- [React Docs - Components and props](https://reactjs.org/docs/components-and-props.html)
