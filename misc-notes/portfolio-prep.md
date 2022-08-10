@@ -2,32 +2,24 @@
 
 ## Tell me about yourself
 
-**1. What is React?**
+*Visitors to your portfolio site want to learn about you, in memorable, bite-sized bits. Your page will have a space for you to fill in each of the following descriptions of yourself:*
 
-**2. What is a component?**
+**1. A 2 or 3 word catchy title. Avoid cliches like “programming ninja” or “coding rockstar”.**
 
-**3. What is the dataflow of React?**
+**2. A personal headline, like you have atop your LinkedIn page. What do you want your career to be about?**
 
-**4. How do we make a React element a DOM element?**
+**3. Your professional pitch: You’ve done a recording, so just write down here how it goes.**
 
-**5. React is a User Interface ______.**
-
-**6. Which direction does data flow in React?**
-
-**7. Every component manages its own ____.**
+**4. What excites you the most about tech? Write 1-2 sentences.**
 
 ## Gather your assets
 
-**1. What is React?**
+*Visitors to your portfolio site want to learn about you, in memorable, bite-sized bits. Your page will have a space for you to fill in each of the following descriptions of yourself:*
 
-**2. What is a component?**
+**1. A headshot of your lovely face, reduced to 100x100 pixels**
 
-**3. What is the dataflow of React?**
+**2. A banner of you looking happy, cropped to exactly 1400 × 422 pixels**
 
-**4. How do we make a React element a DOM element?**
+**3. A screenshot of the best-looking part of your favorite previous project, like your Code 201 final project**
 
-**5. React is a User Interface ______.**
-
-**6. Which direction does data flow in React?**
-
-**7. Every component manages its own ____.**
+**4. Two or three other nice-looking screenshots, of any other projects you have worked on. Salmon Cookies? Bus Mall?**
