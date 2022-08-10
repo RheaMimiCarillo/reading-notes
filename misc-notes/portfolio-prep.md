@@ -8,9 +8,15 @@
 
 **2. A personal headline, like you have atop your LinkedIn page. What do you want your career to be about?**
 
+I want my career to be about me making coding tasks into puzzles and then solving puzzles and getting enjoyment from using my mind analytically, without having to worry about sweating the details on the tedious parts. I want to develop novel solutions and have fun being creative and thinking outside the box.
+
 **3. Your professional pitch: You’ve done a recording, so just write down here how it goes.**
 
+Nice to meet you, I'm Rhea Carillo. I'm a software developer with a background in military civil engineering. I help my clients analyze problems and create novel solutions for them. 
+
 **4. What excites you the most about tech? Write 1-2 sentences.**
+
+What excites me most is the unlimited potential for creativity and innovation in all sectors of life. 
 
 ## Gather your assets
 
