@@ -38,6 +38,6 @@ It's another tool in the toolbox for me. It feel like CSS is a lot of memorizati
 
 - How would we do our old labs different if we knew about flexbox?
 
-### [Previous Reading](./class-07.md)
+[Previous Reading](./class-07.md)
 
-### [Next Reading](./class-09.md)
+[Next Reading](./class-09.md)
