@@ -18,13 +18,15 @@ Some of the advantages of component-based architechtures are reduced time and co
 
 **1. What is "props" short for?**
 
-"Props" is short for: *properties*.
+"Props" is short for: *properties* and is a keyword in React.
 
 **2. How are props used in React?**
 
 Props are used to send data between components in React from parent to children.
 
 **3. What is the flow of props?**
+
+Props can only be passed from parent to children in React. 
 
 ## Bookmark and Review
 
