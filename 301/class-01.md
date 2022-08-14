@@ -37,6 +37,7 @@ Props can only be passed from parent to children in React.
 - [React Docs - Components and props](https://reactjs.org/docs/components-and-props.html)
 
 ## Things I Want To Know More About
+- How exactly are we going to use this?
 
 [Previous Reading](..201/class-14b.md)
 
