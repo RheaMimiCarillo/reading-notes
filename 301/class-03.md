@@ -4,34 +4,57 @@
 
 **1. What does .map() return?**
 
-
+`.map()` returns a new array.
 
 **2. If I want to loop through an array and display each value in JSX, how do I do that in React??**
 
-
+We can use the `.map()` function to return a list of elements.
 
 **3. Each list item needs a unique ____.?**
 
+Each list item needs a unique **key**.
+
 **4. What is the purpose of a key?**
 
+A key is to differentiate each list item from each other.
 
-
-## [](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
+## [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
 
 **1. What is the spread operator??**
 
-
+The spread operator is "speads" each value of an array into separate arguments.
 
 **2. List 4 things that the spread operator can do.?**
 
-
+1. Adding a state in React
+2. Using an array as arguments
+3. Combining objects
+4. Concatenating or combining arrays
 
 **3. Give an example of using the spread operator to combine two arrays.?**
 
+``` JavaScript
+const thisArray = ['Are', 'you', 'feeling', 'it'];
+const thatArray = ['Mr.', 'Krabbs', '?']
+const thisThatArray = [...thisArray,...thatArray];
+```
+
 **4. Give an example of using the spread operator to add a new item to an array.**
 
+``` JavaScript
+const meep = 'meep';
+const meepMeep = ['meep', ...meep];
+```
 
 **5. Give an example of using the spread operator to combine two objects into one.**
+
+``` JavaScript
+
+const thingOne = {red: 'fish'};
+const thingTwo = {blue: 'fish'};
+const thingThree = {...thingOne,...thingTwo};
+
+```
 
 ## [How to Pass Functions Between Components](https://www.youtube.com/watch?v%3Dc05OL7XbwXU)
 
@@ -48,6 +71,8 @@
 - [React Docs - Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
 
 ## Things I Want To Know More About
+
+- I wonder how I could've React-ified my 201 final project?
 
 [Previous Reading](./class-02.md)
 
