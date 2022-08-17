@@ -60,11 +60,20 @@ const thingThree = {...thingOne,...thingTwo};
 
 **1. In the video, what is the first step that the developer does to pass functions between components?**
 
+The developer creates a function.
+
 **2. In your own words, what does the increment function do?**
+
+The increment function traverses the `people` array and increments the count property in the `ppl` array, then updates the state with the `ppl' array.
 
 **3. How can you pass a method from a parent component into a child component?**
 
+We can pass a method as a prop into children components.
+
 **4. How does the child component invoke a method that was passed to it from a parent component?**
+
+We can invoke the method with `this.props.<method name>`.
+
 ## Bookmark and Review
 
 - [React Tutorial through 'Declaring a Winnder'](https://reactjs.org/tutorial/tutorial.html)
