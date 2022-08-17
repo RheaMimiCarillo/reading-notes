@@ -22,3 +22,4 @@
 - Class 01: [Introduction to React and Components](/301/class-01.md)
 - Class 02: [State and Props
 ](/301/class-02.md)
+- Class 03: [Passing Functions as Props](/301/class-03.md)
