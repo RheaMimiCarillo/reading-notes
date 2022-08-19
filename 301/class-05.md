@@ -37,12 +37,14 @@ It's a function that accepts other functions as parameters and may return a func
 
 **2. Explore the `greaterThan` function as defined in the reading. In your own words, what is line 2 of this function doing?**
 
-
+Line 2 is 
 
 **3. Explain how either `map` or `reduce` operates, with regards to higher-order functions.?**
-
+`map` accepts an array as an argument, and uses a callback function to traverse through each index, do some code with each index, and return a new array.
 
 ## Things I Want To Know More About
+
+- I want to know more about how JavaScript has doing these things in the background without us knowing about it in 201.
 
 [Previous Reading](./class-04.md)
 
