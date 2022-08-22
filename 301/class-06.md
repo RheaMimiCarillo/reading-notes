@@ -26,7 +26,7 @@
 **8. What is node used for?**
 
 
-## [](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+## [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 
 **1. What are the 6 reasons for pair programming?**
 
