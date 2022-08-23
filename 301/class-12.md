@@ -1,76 +1,58 @@
-# 
+# CRUD
 
-## []()
+## [Status Codes Based On REST Methods](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
 
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
+**1. In your own words, describe what each group of status code represents:**
+  
+  - 100’s =
+  - 200’s =
+  - 300’s =
+  - 400’s =
+  - 500’s =
 
 
-**5. **
+**2. What is a status code 202?**
 
 
-**6. **
+**3. What is a status code 308?**
 
 
-**7. **
-
-## []()
-
-**1. **
+**4. What code would you use if an update didn’t return data to a client?**
 
 
-**2. **
+**5. What code would you use if a resource used to exist but no longer does?**
 
 
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
+**6. What is the ‘Forbidden’ status code?**
 
 
 **7. **
 
+## [Build A REST API With Node.js, Express, & MongoDB - Quick](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) - First 20 minutes
 
-## []()
-
-**1. **
-
-
-**2. **
+**1. Why do we need to pull our MongoDB database string out of our server and put it into our .env?**
 
 
-**3. **
+**2. What is middleware?**
 
 
-**4. **
+**3. What does `app.use(express.json())` do?**
 
 
-**5. **
+**4. What does the `/:id` mean in a route?**
 
 
-**6. **
+**5. What is the difference between `PUT` and `PATCH`?**
 
 
-**7. **
+**6. How do you make a default value in a schema?**
 
 
-## Bookmark and Review
+**7. What does a `500` error status code mean?**
 
--
+
+**8. What is the difference between a status `200` and a status `201`?**
+
 
 ## Things I Want To Know More About
 

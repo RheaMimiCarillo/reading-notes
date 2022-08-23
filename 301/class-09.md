@@ -1,80 +1,39 @@
-# 
+# Functional Programming
 
-## []()
+## [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 
-**1. **
-
-
-**2. **
+**1. What is functional programming?**
 
 
-**3. **
+**2. What is a pure function and how do we know if something is a pure function?**
 
 
-**4. **
+**3. What are the benefits of a pure function?**
 
 
-**5. **
+**4. What is immutability?**
 
 
-**6. **
+**5. What is Referential transparency?**
 
 
-**7. **
+## [Node JS Tutorial for Beginners #6 - Modules and require()](https://www.youtube.com/watch?v%3DxHLd36QoS4k)
 
-## []()
-
-**1. **
+**1. What is a module?**
 
 
-**2. **
+**2. What does the word ‘require’ do?**
 
 
-**3. **
+**3. How do we bring another module into the file the we are working in?**
 
 
-**4. **
+**4. What do we have to do to make a module available?**
 
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## Bookmark and Review
-
--
 
 ## Things I Want To Know More About
 
--
+- 
 
 [Previous Reading](./class-08.md)
 

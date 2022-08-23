@@ -1,76 +1,20 @@
-# 
+# More CRUD
 
-## []()
+## [CRUD Basics](https://medium.com/geekculture/crud-operations-explained-2a44096e9c88)
 
-**1. **
-
-
-**2. **
+**1. Which HTTP method would you use to update a record through an API?**
 
 
-**3. **
+**2.Which REST methods require an ID parameter?**
 
 
-**4. **
+## [Speed Coding: Building a CRUD API](https://www.youtube.com/watch?v%3DEzNcBhSv1Wo) *(Watch a Twitch streamer code an Express API in 20 minutes!)*
+
+**1.What’s the relationship between REST and CRUD?**
 
 
-**5. **
+**2. If you had to describe the process of creating a RESTful API in 5 steps, what would they be?**
 
-
-**6. **
-
-
-**7. **
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## Bookmark and Review
-
--
 
 ## Things I Want To Know More About
 

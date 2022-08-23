@@ -1,76 +1,44 @@
-# 
+# Authentication
 
-## []()
+## [What is OAuth](https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html)
 
-**1. **
-
-
-**2. **
+**1. What is OAuth?**
 
 
-**3. **
+**2. Give an example of what using OAuth would look like.**
 
 
-**4. **
+**3. How does OAuth work? What are the steps that it takes to authenticate the user?**
 
 
-**5. **
+**4. What is OpenID?**
+
+## [Authorization and Authentication flows](https://auth0.com/docs/flows)
+
+**1. What is the difference between authorization and authentication?**
 
 
-**6. **
+**2. What is Authorization Code Flow?**
 
 
-**7. **
-
-## []()
-
-**1. **
+**3. What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?**
 
 
-**2. **
+**4. What is Implicit Flow with Form Post?**
 
 
-**3. **
+**5. What is Client Credentials Flow?**
 
 
-**4. **
+**6. What is Device Authorization Flow?**
 
 
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
+**7. What is Resource Owner Password Flow?**
 
 
 ## Bookmark and Review
 
--
+- [Auth0 for single page apps](https://auth0.com/docs/libraries/auth0-react)
 
 ## Things I Want To Know More About
 
