@@ -6,8 +6,10 @@
 
 **1. Who is Roy Fielding??**
 
+He's a computer scientist who helped author HTTP and and REST architectural style.
 
 **2. Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world??**
+
 
 
 **3. What is the HTTP protocol that Fielding and his friends created??**
