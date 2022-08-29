@@ -42,6 +42,33 @@ db.once('open', function () {
 
 // connect Mongoose to out MongoDB
 mongoose.connect(process.env.<my DB_URL>);
+
+
+// need to import model to interact with DB
+
+// ROUTE for database
+
+app.get('/cats', getCats);
+
+
+async function getCats(req,res,next)
+{
+  try
+  {
+    // .find() accepts an object as a parameter
+    // https://mongoosejs.com/docs/api.html#model_Model-find
+    // passing in an empty object will return all cats
+    let results = await Cat.find({});
+    res.status(200).send(results);
+
+    // get just 'Dot' from the array
+    let dot = await Cat.find({name: 'Dot'});
+  }
+  catch(err)
+  {
+    next(err);
+  }
+}
 ```
 
 ``` JavaScript
@@ -125,5 +152,36 @@ async function seed()
 seed();
 
 
+
+```
+**CRUD:**
+Create
+Read
+Update
+Delete
+
+REST verbs:
+Get
+Post
+Delete
+Put
+
+``` JavaScript
+
+/* front-end App.js */
+
+// React has some built in functionality that will automatically rerender whenever state is updated
+
+// will load after the initial component has done initial loading
+componentDidMount() {
+  // run this function
+  this.getCats();
+}
+
+
+render()
+{
+  this.catCats(); // having this here is a no-no. it'll do an infinite loops
+}
 
 ```
