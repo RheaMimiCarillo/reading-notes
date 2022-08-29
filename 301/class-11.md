@@ -10,29 +10,35 @@ Review the Submission Instructions for guidance on completing and submitting thi
 
 |   SQL  |  noSQL |
 | ------ | ------ |
-|        |        |
-|        |        |
-|        |        |
-|        |        |
-
+|  tables      | graphs, key-value pairs       |
+| predefined schema       |   dynamic schema     |
+| vertically scaled       | horizontally scaled       |
+| professional support readily available       | community-based support       |
+|
 
 **2. What kind of data is a good fit for an SQL database?**
 
+SQL is good for non-hierarchial data.
 
 **3. Give a real world example.**
 
+At my old civil engineering job, we used relational databases running Oracle to store metadata for points we captures during land surveys using gps and optical equipment.
 
 **4. What kind of data is a good fit a NoSQL database?**
 
+NoSQL is good for storing graph databases, key-value pairs, documents, column store databases, and XML databases.
 
 **5. Give a real world example.**
 
+Amazon offers NoSQL databases through AWS.
 
 **6. Which type of database is best for hierarchical data storage?**
 
+NoSQL is better for hierarchical data storage over SQL.
 
 **7. Which type of database is best for scalability?**
 
+Both are good for scalability under different contexts. SQL databases best for vertically scaling whilst NoSQL is better for horizontal scaling.
 
 ## [sql vs nosql (Video)](https://www.youtube.com/watch?v%3DZS_kXvOeQ5Y)
 
