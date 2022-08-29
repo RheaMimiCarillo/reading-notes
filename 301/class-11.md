@@ -44,30 +44,39 @@ Both are good for scalability under different contexts. SQL databases best for v
 
 **1. What does SQL stand for?**
 
+Structured Query Language.
 
 **2. What is a relational database?**
 
+A database where data that are related to each other using are stored using records and fields.
 
 **3. What type of structure does a relational database work with?**
 
+Tables.
 
 **4. What is a ‘schema’?**
 
+It's a predefined data structure to groups tables and such.
 
 **5. What is a NoSQL database?**
 
+Non-tabular databases that can store data using a variety of documents.
 
 **6. How does it work?**
 
+It works by using a JSON database
 
 **7. What is inside of a Mongo database?**
 
+Documents, key-value pairs, wide-column databases, and graph databases
 
 **8. Which is more flexible - SQL or MongoDB? and why.**
 
+MongoDB is more flexible, since we won't be limited to pre-defined schema
 
 **9. What is the disadvantage of a NoSQL database?**
 
+They may have to be manually cleaned of duplicates.
 
 ## Bookmark and Review
 
@@ -76,7 +85,7 @@ Both are good for scalability under different contexts. SQL databases best for v
 
 ## Things I Want To Know More About
 
-- 
+- Are we going to have to learn traditional SQL?
 
 [Previous Reading](./class-10.md)
 
