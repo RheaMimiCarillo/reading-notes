@@ -7,24 +7,29 @@
   - 100’s = "We got the stuff and will do a thing"
   - 200’s = "Oh hey, it looks like something's working"
   - 300’s = "Who Barbara? She moved to a corner office"
-  - 400’s = 
-  - 500’s =
+  - 400’s = "What the heck did you send me?"
+  - 500’s = "We're having a bit of a problem on our end"
 
 
 **2. What is a status code 202?**
 
+Asynchronous processing request
 
 **3. What is a status code 308?**
 
+Permanent Redirect
 
 **4. What code would you use if an update didn’t return data to a client?**
 
+204
 
 **5. What code would you use if a resource used to exist but no longer does?**
 
+410
 
 **6. What is the ‘Forbidden’ status code?**
 
+403
 
 **7. **
 
