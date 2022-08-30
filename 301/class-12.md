@@ -4,10 +4,10 @@
 
 **1. In your own words, describe what each group of status code represents:**
   
-  - 100’s =
-  - 200’s =
-  - 300’s =
-  - 400’s =
+  - 100’s = "We got the stuff and will do a thing"
+  - 200’s = "Oh hey, it looks like something's working"
+  - 300’s = "Who Barbara? She moved to a corner office"
+  - 400’s = 
   - 500’s =
 
 
