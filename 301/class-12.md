@@ -31,11 +31,11 @@ Permanent Redirect
 
 403
 
-**7. **
 
 ## [Build A REST API With Node.js, Express, & MongoDB - Quick](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) - First 20 minutes
 
 **1. Why do we need to pull our MongoDB database string out of our server and put it into our .env?**
+
 
 
 **2. What is middleware?**
