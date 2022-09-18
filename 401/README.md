@@ -1,4 +1,4 @@
-# Code 401 - Advanced Software Development In JavaScript
+# Code 401 - Advanced Software Development in Full-Stack JavaScript
 
 ## Module 1
 
