@@ -1,4 +1,4 @@
-# Code Fellows Code 201 Reading Notes
+# Code Fellows Reading Notes
 
 ![This is a silly image of me](./images/banner%201400x422.png)
 
@@ -39,8 +39,9 @@
 - Class 14: [Diversity & Inclusion in the Tech Industry](/301/class-14.md)
 - Class 15: [Readings: Authentication](/301/class-15.md)
 
-## Code 401 - - Class 01: [](/401/class-01.md)
+## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
+- Class 01: [](/401/class-01.md)
 - Class 02: [](/401/class-02.md)
 - Class 03: [](/401/class-03.md)
 - Class 04: [](/401/class-04.md)
