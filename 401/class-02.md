@@ -1,80 +1,57 @@
-# 
+# Express, NPM, TDD, CI/CD
 
-## []()
+## [An introduction to NodeJS and Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 
-**1. **
-
-
-**2. **
+**1. Explain middleware, answer as though I were a non-technical recruiter.**
 
 
-**3. **
+**2. Express the most popular __ __ ____.**
 
 
-**4. **
+**3. Express is “unopinionated.” What does that mean?**
 
 
-**5. **
+**4. What is a module and why is modularity useful to us as developers?**
 
 
-**6. **
+## [What is NPM?](https://docs.npmjs.com/getting-started/what-is-npm)
+
+**1. What version of npm are you running on your machine?**
 
 
-**7. **
-
-## []()
-
-**1. **
+**2. What command would you type to install a library/package called ‘jshint’ into your node project?**
 
 
-**2. **
+## [What is TDD?](https://www.agilealliance.org/glossary/tdd/)
+
+**1. Explain why tests are important. Please explain as though I were your non technical elder.**
 
 
-**3. **
+**2. What are three expected benefits of testing**
 
 
-**4. **
+**3. Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encountered while writing tests.**
 
+## [CI/CD](https://www.youtube.com/watch?v%3DxSv_m3KhUO8)
 
-**5. **
+**1. What are three benefits of Continuous Integration?**
 
+**2. What is the difference between Continuos Delivery and Continuous Deployment?**
 
-**6. **
-
-
-**7. **
-
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
+**3. Explain how GitHub fits into this process assuming the listener comes from a non-technical background**
 
 
 ## Bookmark and Review
 
--
+- [nodeJS docs](https://nodejs.org/en/docs/)
+- [npm docs](https://docs.npmjs.com/)
+- [express docs](https://expressjs.com/en/4x/api.html)
+- [http status codes](https://www.restapitutorial.com/httpstatuscodes.html)
+- [supertest](https://github.com/visionmedia/supertest)
 
 ## Things I Want To Know More About
 
--
+- 
 
 [Previous Reading](./class-01.md)
 

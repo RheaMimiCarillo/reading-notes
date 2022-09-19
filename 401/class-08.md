@@ -1,81 +1,42 @@
-# 
+# Access Control (ACL)
 
-## []()
+## [5 steps to RBAC](https://www.csoonline.com/article/3060780/security/5-steps-to-simple-role-based-access-control.html)
 
-**1. **
-
-
-**2. **
+**1. What is Role Based Access Control (RBAC) and why do we care?**
 
 
-**3. **
+**2. Describe a Role/Permission heirarchy that you might implement using RBAC.**
 
 
-**4. **
+**3. What approach might you take to implement RBAC?**
 
 
-**5. **
+## [wiki - RBAC](https://en.wikipedia.org/wiki/Role-based_access_control)
+
+**1. If Authentication is “you are who you say you are,” what is Authorization?**
 
 
-**6. **
+**2. Name three primary rules defined for RBAC.**
 
 
-**7. **
-
-## []()
-
-**1. **
+**3. Describe RBAC to a non-technical friend.**
 
 
-**2. **
+## [RBAC tutorial](https://www.youtube.com/watch?v%3DC4NP8Eon3cA)
+
+**1. What Are access rights Associated with? The User? or The Role? Explain.**
 
 
-**3. **
+**2. Access Rights, or Authorization, is activated after a user successfully does what?**
 
 
-**4. **
+**3. Explain how RBAC might benefit a business.**
 
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## Bookmark and Review
-
--
 
 ## Things I Want To Know More About
 
--
+- 
 
 [Previous Reading](./class-07.md)
 
-[Next Reading](./class-09.md)
+[Next Reading](./class-10.md)

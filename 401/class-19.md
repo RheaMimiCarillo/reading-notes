@@ -1,80 +1,34 @@
-# 
+# AWS: Events
 
-## []()
+## [AWS SQS vs SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5)
 
-**1. **
-
-
-**2. **
+**1. What is the difference betweeen SQS and SNS?**
 
 
-**3. **
+**2. What are some use cases for both SNS and SQS?**
 
 
-**4. **
+## [AWS SNS and SQS](https://www.youtube.com/watch?v%3DmXk0MNjlO7A)
+
+**1. Describe how to use SQS and SNS in a “fanout” pattern.**
 
 
-**5. **
+**2. Explain how “push notifications” work, using SNS.**
 
 
-**6. **
+## [SQS and SNS Basics](https://www.youtube.com/watch?v%3DUesxWuZMZqI)
 
-
-**7. **
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
+**1. How might a large scale, distributed application make use of a Queue system like SQS?**
 
 
 ## Bookmark and Review
 
--
+- [SNS Javascript SDK](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SNS.html)
+- [SQS Javascript SDK](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SQS.html)
 
 ## Things I Want To Know More About
 
--
+- 
 
 [Previous Reading](./class-.md)
 

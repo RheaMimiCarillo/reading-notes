@@ -1,80 +1,46 @@
-# 
+# AWS: S3 and Lambda
 
-## []()
+## [AWS S3](https://aws.amazon.com/s3/)
 
-**1. **
-
-
-**2. **
+**1. What is Amazon S3?**
 
 
-**3. **
+**2. Name some use cases for Amazon S3.**
 
 
-**4. **
+**3. Name some benefits of using Amazon S3.**
 
 
-**5. **
+**4. AWS Lambda Basics**
 
 
-**6. **
 
 
-**7. **
+## [AWS Lambda Basics](https://www.serverless.com/aws-lambda)
 
-## []()
-
-**1. **
+**1. What is AWS Lambda?**
 
 
-**2. **
+**2. Name some use cases for AWS Lambdas.**
 
 
-**3. **
+**3. Describe “serverless” to a non-technical friend.**
 
 
-**4. **
+## [CDN](https://cyberhoot.com/cybrary/content-delivery-network-cdn/)
+
+**1. What is a CDN?**
 
 
-**5. **
+**2. How does a CDN work with relation to the website visitor?**
 
 
-**6. **
+**3. What are the benefits of employing a CDN?**
 
-
-**7. **
-
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## Bookmark and Review
-
--
 
 ## Things I Want To Know More About
 
--
+- 
 
 [Previous Reading](./class-.md)
 

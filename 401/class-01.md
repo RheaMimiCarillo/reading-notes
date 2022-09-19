@@ -1,76 +1,15 @@
-# 
+# Node Ecosystem
 
-## []()
+## [Review if helpful: An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js)
 
-**1. **
-
-
-**2. **
+**1. How would you describe Node to a non-technical friend?**
 
 
-**3. **
+**2. What does it mean that Node is a JavaScript runtime?**
 
 
-**4. **
+**3. What is Node used for?**
 
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## Bookmark and Review
-
--
 
 ## Things I Want To Know More About
 

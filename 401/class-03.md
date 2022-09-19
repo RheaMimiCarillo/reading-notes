@@ -1,80 +1,41 @@
-# 
+# Express REST API
 
-## []()
+## [Review: ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
-**1. **
-
-
-**2. **
+**1. Classes are a template for creating ____.**
 
 
-**3. **
+**2. Can a class declaration be hoisted?**
 
 
-**4. **
+**3.  would you describe a constructor and contextual “this” to a non-technical friend?**
 
 
-**5. **
+## [Using Express Routing](https://expressjs.com/en/guide/routing.html)
+
+**1. Within Express, what does routing refer to?**
 
 
-**6. **
+**2. What is the difference between a route path and a route method?**
 
 
-**7. **
-
-## []()
-
-**1. **
+**3. When is it appropriate to add `next` as a parameter to a route handler and what must you do if `next` has been passed to your middleware as a parameter?**
 
 
-**2. **
+## [Express Routing](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4)
+
+**1. What is an Express Router?**
 
 
-**3. **
+**2. By what mean do we initialize `express.Router()` in an express server?**
 
 
-**4. **
+**3. What do we use route middleware for?**
 
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## Bookmark and Review
-
--
 
 ## Things I Want To Know More About
 
--
+- 
 
 [Previous Reading](./class-02.md)
 

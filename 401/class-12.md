@@ -1,80 +1,56 @@
-# 
+# Socket.io
 
-## []()
+## [Web Sockets](https://en.wikipedia.org/wiki/WebSocket)
 
-**1. **
-
-
-**2. **
+**1. What is a Web Socket?**
 
 
-**3. **
+**2. Describe the Web Socket request/response handshake and what happens once the connection is established.**
 
 
-**4. **
+**3. Web Sockets provide a standardized way for the server to send content to a client without first receiving a ____ from that client.**
 
 
-**5. **
+## [Socket.io Tutorial](https://www.tutorialspoint.com/socket.io/)
+
+**1. What does the event handler `io.on()` do?**
 
 
-**6. **
+**2. Describe some possible proof of life or proof that the code works as expected.**
 
 
-**7. **
-
-## []()
-
-**1. **
+**3. What does socket.emit() do?**
 
 
-**2. **
+## [Socket.io vs Web Sockets](https://www.educba.com/websocket-vs-socket-io/)
+
+**1. What is the difference between WebSocket and Socket.IO? (think Git and GitHub, or OAuth and Auth0).**
 
 
-**3. **
+**2. When would you use Socket.IO?**
 
 
-**4. **
+**3. When would you use WebSockets?**
 
+## [OSI Model Explained](https://www.youtube.com/watch?v%3Dvv4y_uOneC0)
 
-**5. **
+**1. What are a couple of key takeaways from this video?**
 
+## [TCP Handshakes Explained](https://www.youtube.com/watch?v%3DxMtP5ZB3wSk)
 
-**6. **
-
-
-**7. **
-
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
+**1. Translate the gist of this video to a non-technical friend.**
 
 
 ## Bookmark and Review
 
--
+- [Socket.io Documentation](https://socket.io/docs/)
+- [Socket.io Server API](https://socket.io/docs/server-api)
+- [Socket.io Client API](https://socket.io/docs/client-api)
+- [Socket Testing Tool](https://amritb.github.io/socketio-client-tool/)
 
 ## Things I Want To Know More About
 
--
+- 
 
 [Previous Reading](./class-11.md)
 

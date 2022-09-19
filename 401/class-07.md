@@ -1,80 +1,48 @@
-# 
+# Bearer Authorization
 
-## []()
+## [Intro to JWT](https://jwt.io/introduction/)
 
-**1. **
-
-
-**2. **
+**1. What is a JSON Web Token (JWT)?**
 
 
-**3. **
+**2. When should we use JSON Web Tokens?**
 
 
-**4. **
-
-
-**5. **
-
-
-**6. **
+**3. Claims are expected in which structural component of a JWT?**
 
 
 **7. **
 
-## []()
+## [Are JWTs Secure?](https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure)
 
-**1. **
-
-
-**2. **
+**1. If I get a JWT and I can decode the payload, how can we call that secure?**
 
 
-**3. **
+**2. If sending a JWT, what must sender and receiver both know? Hint, it’s appended in the signature.**
 
 
-**4. **
+**3. Explain how concatenated content and secret can be sent and received securely to a non-technical recruiter.**
 
 
-**5. **
+## [JWTs Explained](https://www.youtube.com/watch?v%3D926mknSW9Lo)
+
+**1. Why use JWT?**
 
 
-**6. **
+**2. JWT is Compact and self-contained. Describe how this is useful to a non-technical friend.**
 
 
-**7. **
-
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
+**3. What are the three components (the structure) of a JWT signature?**
 
 
 ## Bookmark and Review
 
--
+- [npm jsonwebtoken docs](https://www.npmjs.com/package/jsonwebtoken)
+
 
 ## Things I Want To Know More About
 
--
+- 
 
 [Previous Reading](./class-06.md)
 
