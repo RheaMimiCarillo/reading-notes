@@ -146,6 +146,8 @@ we can write it just as we'd write the request in our front-end react app
 a function that returns another function (a higher order function?)
 ex: 
 ``` javascript
+
+// we curry, because passing in a messages into the `(req,res,next)` part would have Express interpret `messages` as an error and this is a way to get around that
 const readMessage = (messages) => (req,res,next) =>
 {
   for (let message of messages)
