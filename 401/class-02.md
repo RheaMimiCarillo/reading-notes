@@ -4,12 +4,14 @@
 
 **1. Explain middleware, answer as though I were a non-technical recruiter.**
 
-test
+Middleware is anything that happens in between a request and a response that a user makes. For example, if enter 1 and 2 into a website and want it to add them together and see the result, the middleware would be the math that goes into the 1 and 2 getting added together before the user sees the final answer of 3.
 
 **2. Express the most popular __ __ ____.**
 
+HTTP REST Framework
 
 **3. Express is “unopinionated.” What does that mean?**
+
 
 
 **4. What is a module and why is modularity useful to us as developers?**
