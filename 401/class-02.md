@@ -12,7 +12,7 @@ HTTP REST Framework
 
 **3. Express is “unopinionated.” What does that mean?**
 
-
+It means that the framework doesn't push a 'correct' way to get things done, which allows developers to develop solutions that are only limited to their imagination.
 
 **4. What is a module and why is modularity useful to us as developers?**
 
