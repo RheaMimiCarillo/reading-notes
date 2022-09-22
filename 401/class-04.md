@@ -34,12 +34,19 @@ Foreign keys are columns that will match the primary key in another table.
 
 **1. How do we treat keywords and parameters differently in SQL syntax?**
 
+The
 
 **2. Define normalization within the context of schemas and data.**
 
+The goal of normalization is to prevent or avoid storing duplicate data.
 
 **3. Explain the difference between one-to-one, one-to-many, and many-to-many relationships to a non-technical recruiter.**
 
+One to one is where one box in your excel spreadsheet in a table can match one box in other excel spreadsheets.
+
+One to man is where one box in your excel spreadsheet can match one or more boxes in your excel spreadsheets.
+
+Many to many is where many boxes in your excel spreadsheets match one or more boxes in your excel spreadsheet.
 
 ## Bookmark and Review
 
