@@ -60,7 +60,7 @@ Continuous Deployment - only deployment of the product in customer environment
 
 **3. Explain how GitHub fits into this process assuming the listener comes from a non-technical background**
 
-Github has CI/CD directly integrated into their platform.
+Github has CI/CD directly integrated into t`heir platform.
 
 ## Bookmark and Review
 
