@@ -1,6 +1,5 @@
 # Linked Lists
 
-
 ## [Big O: Analysis of Algorithm Efficiency](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/big_oh.html)
 
 Big O notation - apparently, the 'O' in big O stands for *Ordnung*, meaning the order of approximation.
@@ -22,7 +21,6 @@ Here are the **4 Keys Areas** to consider when thinking of Big O:
   3. Orders of Growth
   4. Best Case, Worst Case, Average Case
 
-
 `n` Input Size: The size of the parameters read by the function.
 
 Units of Measurement - quantify with:
@@ -41,20 +39,17 @@ Memory Space - four sources of memory usage:
 
 4. the space needed to hold working data during run time (stack space, recursive calls)
 
-
 Orders of Growth - the order of magnitude that time and space requirements go up by when the size of the Input `n` increases
 
-![Orders of Growth](../images/OrdersOfGrowth.png"Orders of Growth")
+![Orders of Growth](../images/OrdersOfGrowth.png "Orders of Growth")
 
-
+How do we analyze big on with pen and paper
 
 ## [Linked Lists](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/singly_linked_list.html)
-
 
 ## [What’s a Linked List, Anyway pt1](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 
 ## [What’s a Linked List, Anyway pt2](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
-
 
 [Previous Reading](./class-04.md)
 
