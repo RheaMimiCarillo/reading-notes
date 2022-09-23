@@ -26,6 +26,7 @@ Here are the **4 Keys Areas** to consider when thinking of Big O:
 `n` Input Size: The size of the parameters read by the function.
 
 Units of Measurement - quantify with:
+
 1. time in milliseconds (more useful checking the performance on specific hardware)
 2. number of operations (number of lines of code fun from start to finish)
 3. number of basic operations (usually the innermost loop)
