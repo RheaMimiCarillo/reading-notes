@@ -20,7 +20,14 @@ Data Structures and Algorithms is often shortened to 'DSA'.
 
 **1. What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?**
 
+One important thing to consider when deciding which data structure is best suited to a problem is time and space complexity required to solve the problem
+
 **2. How can we ensure that we’ll avoid an infinite recursive call stack?**
+
+We can avoid an infinite recursive call by specifying two cases:
+
+1. a base case, where the function doesn't call itself
+2. a recursive case where the function calls itself
 
 ## Things I want to know more about
 
