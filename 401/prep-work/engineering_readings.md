@@ -33,4 +33,4 @@ The only thing that I can ***truly*** bring to a potential employer that nobody 
 
 ## Things I want to know more about
 
-- What are some universal ways to gamify tasks?
+- What are some universal and foolproof ways to gamify tasks?
