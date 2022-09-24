@@ -12,7 +12,6 @@
 - answer immediately, (if possible)
 - set up voicemail! (with a professional message)
   - these are checkboxes the recruiter is looking for
-- 
 
 4. technical interview (prep)
 
@@ -37,7 +36,7 @@
 
 6. JOB OFFER!
 
-- 
+-
 
 7. MONEY $$$ (negotiation)
 
@@ -97,9 +96,9 @@
   - deployed site in the readme!
 
 - how often to update resume: Any time you're:
- - adding new skills, 
- - experience
- - projects, 
- - to tailor to job posting
+- adding new skills,
+- experience
+- projects,
+- to tailor to job posting
 
 - it's a living document
