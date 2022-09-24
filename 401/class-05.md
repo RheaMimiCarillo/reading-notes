@@ -11,6 +11,7 @@ Running time - (time complexity)
 
 Memory Space - (space complexity)
   How much computer memory resources will this function use to store data and computer instructions?
+  "How efficient is our space consumption?"
 
 Big O's purpose is to describe a function's *worst case scenario*.
 
@@ -42,8 +43,20 @@ Memory Space - four sources of memory usage:
 Orders of Growth - the order of magnitude that time and space requirements go up by when the size of the Input `n` increases
 
 ![Orders of Growth](../images/OrdersOfGrowth.png "Orders of Growth")
+![Log Plot](../images/LogPlot.png "Log of growth")
 
-How do we analyze big on with pen and paper
+How do we analyze big on with pen and paper?
+
+
+![Efficiency Notation](../images/EfficiencyNotations.png "Efficiency Notation")
+
+Notes:
+
+- look for nested for loops
+- or nested loops, in general
+- recursion
+- watch a video on simplifying calculating Big O notation for algorithms
+- how to explain the notation in plain English
 
 ## [Linked Lists](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/singly_linked_list.html)
 
