@@ -40,17 +40,3 @@
 
 ## [Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
 *A quick reference for the main points covered in this tutorial.*
-
-
-
-## Bookmark and Review
-
--
-
-## Things I Want To Know More About
-
--
-
-[Previous Reading](./class-.md)
-
-[Next Reading](./class-.md)
