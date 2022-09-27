@@ -32,11 +32,11 @@ They are encoded in Base64 and aren't encrypted or hashed.
 
 **1. Define the authentication process to a non-technical recruiter.**
 
+Authentication is the process where we can determine if a user is allowed to do the thing they are requesting to do.
 
 **2. How should your error messaging respond (both HTTP and HTML)? Why?**
 
-
-**3. Bookmark this link also and consider OWASP fundamentals any time you interact with authentication. Applications developed with security in mind from inception have fewer vulnerabilities throughout their lifecycle.**
+They should respond in a a generic manner, so that an attacker can't get a hint for what to crack.
 
 
 ## Bookmark and Review
@@ -45,7 +45,7 @@ They are encoded in Base64 and aren't encrypted or hashed.
 
 ## Things I Want To Know More About
 
-- 
+- Where is authentication not preferred to be implemented when developing an app?
 
 [Previous Reading](./class-05.md)
 
