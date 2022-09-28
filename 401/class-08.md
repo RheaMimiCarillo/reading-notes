@@ -36,13 +36,17 @@ RBAC is a way to assign 'roles' to people to say what they can and can't access,
 
 **1. What Are access rights Associated with? The User? or The Role? Explain.**
 
+Access rights are associated with the Role. Roles are assigned specific permissions and then Users are given roles.
+
 **2. Access Rights, or Authorization, is activated after a user successfully does what?**
 
 **3. Explain how RBAC might benefit a business.**
 
+RBAC might benefit a business by preventing attacks due to employee incompetence or malpractice in the same way that we wouldn't give every American access to the nuclear launch buttons.
+
 ## Things I Want To Know More About
 
--
+- Where are situations where RBAC would be inappropriate to implement?
 
 [Previous Reading](./class-07.md)
 
