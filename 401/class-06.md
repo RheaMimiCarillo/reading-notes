@@ -38,7 +38,6 @@ Authentication is the process where we can determine if a user is allowed to do 
 
 They should respond in a a generic manner, so that an attacker can't get a hint for what to crack.
 
-
 ## Bookmark and Review
 
 - [bcrypt docs](https://www.npmjs.com/package/bcrypt)

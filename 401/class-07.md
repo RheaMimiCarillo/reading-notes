@@ -14,7 +14,6 @@ For authorization and information exchange.
 
 Claim are expected in the `payload`. The payload is typically has user data.
 
-
 ## [Are JWTs Secure?](https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure)
 
 **1. If I get a JWT and I can decode the payload, how can we call that secure?**
@@ -43,12 +42,9 @@ JWT is compact and self-contained, which means that sending and receiving JWT is
 
 **3. What are the three components (the structure) of a JWT signature?**
 
-
-
 ## Bookmark and Review
 
 - [npm jsonwebtoken docs](https://www.npmjs.com/package/jsonwebtoken)
-
 
 ## Things I Want To Know More About
 
