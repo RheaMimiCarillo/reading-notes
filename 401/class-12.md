@@ -50,7 +50,7 @@ When you want real-time, bidirectional communication between client and server.
 
 **1. What are a couple of key takeaways from this video?**
 
-The OSI model is 
+OSI Model describes the standards for communication between computers
 
 ## [TCP Handshakes Explained](https://www.youtube.com/watch?v%3DxMtP5ZB3wSk)
 
