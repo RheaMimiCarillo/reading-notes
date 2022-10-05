@@ -50,13 +50,13 @@ When you want real-time, bidirectional communication between client and server.
 
 **1. What are a couple of key takeaways from this video?**
 
-OSI Model describes the standards for communication between computers
+OSI Model describes the standards for communication between computers.
 
 ## [TCP Handshakes Explained](https://www.youtube.com/watch?v%3DxMtP5ZB3wSk)
 
 **1. Translate the gist of this video to a non-technical friend.**
 
-
+TCP is like when asking for and establishing permission to slide into someone's DMs.
 
 ## Bookmark and Review
 
@@ -67,7 +67,7 @@ OSI Model describes the standards for communication between computers
 
 ## Things I Want To Know More About
 
-- 
+- I'd like to know if we'll use UDP in this class.
 
 [Previous Reading](./class-11.md)
 
