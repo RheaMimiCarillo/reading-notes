@@ -33,12 +33,17 @@ A room is a `channel` that clients can `join()` and `leave()`.  They're useful i
 
 **1. What is a Namespace and what does it allow you to do?**
 
+A namespace is a way to separate socket logic, depending on intended functionality. Instead of having connections route to "/", we can have them be routed to "/banana" or "/pokemon".
 
 **2. Each namespace potentially has its own what? (hint: 3 things)**
 
+1. Event handlers
+2. Rooms
+3. Middlewares
 
 **3. Discuss a possible use case for separate namespaces**
 
+A use case if we wanted to create a space where only some users have access to, like juicy secrets, for example.
 
 ## Bookmark and Review
 
