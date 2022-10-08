@@ -12,6 +12,7 @@ const io = require('socket.io');
 
 const PORT = process.env.PORT || 3002;
 
+
 const MessageQueue = require('./src/MessageQueue/MessageQueue.js');
 
 const outGoingQueue = new MessageQueue();
@@ -52,9 +53,10 @@ messages.on('connection', (socket) =>
     socket.to(payload.clientId).emit('message', payload);
   });
 
-
+  // client needs all messages from a clientId
   socket.on('get-messages', (payload) =>
   {
+    // this emits back to the same client that published the "get-messages"
     outGoingQueue.get(payload.clientId).forEach(message =>
     {
       // we don't want the users to see the clientId, so just extract the messages from the payload and send those to the users as 'message' events

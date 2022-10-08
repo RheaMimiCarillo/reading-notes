@@ -11,6 +11,7 @@ class MessageClient
   constructor(clientId, url = 'http://localhost:3002/messages')
   {
     this.clientId = clientId;
+    // this is the line where the instance of the message client gets assigned the socket
     this.socket = io.connect(url);
   }
 
@@ -18,6 +19,7 @@ class MessageClient
   subscribe(event, handler)
   {
     // have the client join a room with their clientId, all on their own
+    // THIS is the spot where the client connects to the CAPS server
     this.socket.emit('join', { clientId: this.clientId });
     this.socket.on(event, handler);
   }
@@ -29,7 +31,7 @@ class MessageClient
     this.socket.emit(event, {
 
       // the `body` has the `clientId` and the `messageId` attached to it, already
-      // sot he MessagesQueue.read() will know what to delete
+      // so the MessagesQueue.read() will know what to delete
       body: payload,
       client: this.clientId,
     });
