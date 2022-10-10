@@ -1,76 +1,19 @@
-# 
+# Context API - Behaviors
 
-## []()
+## [Hooks and Context example](https://medium.com/swlh/snackbars-in-react-an-exercise-in-hooks-and-context-299b43fd2a2b){:target="_blank"}
 
-**1. **
+**1. With regard to the React Context API, what does a "provider" do?**
 
+**2. With regard to the React Context API, how would we implement a "consumer" role?**
 
-**2. **
+**3. Specifically with Context, how are we "wrapping" components to achieve our goals?**
 
+## [Awesome React Context links](https://github.com/diegohaz/awesome-react-context){:target="_blank"}
 
-**3. **
+**1. Consume content from (at least) two more of the Awesome React Context links.  After some familiarity with React Context, once again share your takeaways from each:**
 
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## Bookmark and Review
-
--
+  1. Takeaway 1:
+  2. Takeaway 2:
 
 ## Things I Want To Know More About
 

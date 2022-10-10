@@ -29,8 +29,7 @@
 
 ## [AWS DynamoDB](https://aws.amazon.com/dynamodb/)
 
-**1. Explain to a non-technical friend how DynamoDB works.
-**
+**1. Explain to a non-technical friend how DynamoDB works.**
 
 
 ## [Dynamoose](https://dynamoosejs.com/getting_started/Introduction)

@@ -1,76 +1,25 @@
-# 
+# API Integration
 
-## []()
+## [Review API Server Build](https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/api-server/){:target=_blank}
 
-**1. **
+**1. Explain the different between a query string parameter and a path parameter.**
 
+**2. What would our API URL with a path id parameter be given the following information:**
 
-**2. **
+  1. Domain: `http://our-site.com`
+  2. `v3`
+  3. model name: `stuff`
+  4. id: `things`
 
+**3. We have created a dynamic API with an "interface".  Describe how that interface works to a non-technical friend.**
 
-**3. **
+## [Review Auth Server Build](https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/auth-server/){:target=_blank}
 
+**1. Describe how you would use middleware to implement basic and bearer auth.**
 
-**4. **
+**2. Describe the handshake necessary to implement OAuth.**
 
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## Bookmark and Review
-
--
+**3. Describe how Role Based Access Control works to a non-technical friend.**
 
 ## Things I Want To Know More About
 

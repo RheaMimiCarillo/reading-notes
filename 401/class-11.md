@@ -21,6 +21,6 @@
 
 - 
 
-[Previous Reading](./class-10.md)
+[Previous Reading](./class-08.md)
 
 [Next Reading](./class-12.md)

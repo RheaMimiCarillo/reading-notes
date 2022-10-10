@@ -32,4 +32,4 @@
 
 [Previous Reading](./class-18.md)
 
-[Next Reading](./class-20.md)
+[Next Reading](./class-26.md)

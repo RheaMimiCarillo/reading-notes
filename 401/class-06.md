@@ -46,6 +46,6 @@ They should respond in a a generic manner, so that an attacker can't get a hint 
 
 - Where is authentication not preferred to be implemented when developing an app?
 
-[Previous Reading](./class-05.md)
+[Previous Reading](./class-04.md)
 
 [Next Reading](./class-07.md)

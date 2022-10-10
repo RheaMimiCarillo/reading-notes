@@ -1,76 +1,28 @@
-# 
+# Redux - Combined Reducers
 
-## []()
+## [Multiple Reducers Example](https://www.youtube.com/watch?v=gBER4Or86hE){:target="_blank"}
 
-**1. **
+**1. Why create multiple reducers?**
 
+**2. How would you combine multiple reducers?**
 
-**2. **
+**3. How will you manage state as an immutable object?  why?**
 
+## [Redux Docs: Using Combined Reducers](https://redux.js.org/recipes/structuring-reducers/using-combinereducers/){:target="_blank"}
 
-**3. **
+**1. `combineReducers` is a utility function to simplify the most common use case when writing _______ _________ .**
 
+**2. Explain how `combineReducers` assembles the new state tree.**
 
-**4. **
+**3. How would you define initial state in an app using `combineReducers`?**
 
+## [Redux Docs: Combined Reducer Syntax](https://redux.js.org/api/combinereducers/){:target="_blank"}
 
-**5. **
+**1. Why will you want to split your reducing functions as your app becomes more complex?**
 
+**2. The _______________ helper function turns an object whose values are different reducing functions into a single reducing function you can pass to __________.**
 
-**6. **
-
-
-**7. **
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## []()
-
-**1. **
-
-
-**2. **
-
-
-**3. **
-
-
-**4. **
-
-
-**5. **
-
-
-**6. **
-
-
-**7. **
-
-
-## Bookmark and Review
-
--
+**3. What is a popular convention when naming reducers?**
 
 ## Things I Want To Know More About
 
