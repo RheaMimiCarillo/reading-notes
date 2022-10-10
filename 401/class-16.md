@@ -8,11 +8,12 @@ An EC2 instance is a virtual server for running applications on the AWS platform
 
 **2. Name 2 use cases for EC2.**
 
-1. Developing and testing environments
-2. Training Machine Learning applications
+  1. Developing and testing environments
+  2. Training Machine Learning applications
 
 **3. Provide 1 reason to use ECS instead of Heroku.**
 
+1 reason to use ECS over Heroku is the added flexibility that comes from directly dealing with AWS.
 
 ## [EC2 For Humans](https://www.youtube.com/watch?v%3DlZMkgOMYYIg)
 
@@ -22,8 +23,10 @@ Under `Services`. We can also type `EC2` into the search box.
 
 **2. Explain the general difference between T2 Micro and XL.**
 
+A T2 Micro has much weaker hardware specs compared to a T2 XL, so it's not as powerful, but it's much more economical.
 
 **3. Explain a “Compute Cycle” to a non-technical friend.**
+
 
 
 ## [Elastic Beanstalk](https://www.youtube.com/watch?v%3DSrwxAScdyT0)
@@ -34,11 +37,11 @@ EB automatically handles capacity provisioning and load balancing, so that user 
 
 **2. Describe the relationship between EC2 and Elastic Beanstalk.**
 
-E
+Elastic Beanstalk will help manage EC2 instances.
 
 **3. Name some benefits of using Elastic Beanstalk.**
 
-It allows for automated configuration and deployment of more VMs.
+It allows for automated configuration and deployment of more VMs, so we devs can focus more on developing code.
 
 ## Bookmark and Review
 
