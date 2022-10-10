@@ -76,6 +76,6 @@
 
 -
 
-[Previous Reading](./class-.md)
+[Previous Reading](./class-31.md)
 
-[Next Reading](./class-.md)
+[Next Reading](./class-33.md)

@@ -30,6 +30,6 @@
 
 - 
 
-[Previous Reading](./class-.md)
+[Previous Reading](./class-18.md)
 
-[Next Reading](./class-.md)
+[Next Reading](./class-20.md)
