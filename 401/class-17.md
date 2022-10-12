@@ -17,7 +17,6 @@ Amazon S3 is a file management service for AWS.
 - High scalability
 - Low-latency data storage and retrieval
 
-
 ## [AWS Lambda Basics](https://www.serverless.com/aws-lambda)
 
 **1. What is AWS Lambda?**
@@ -51,6 +50,24 @@ CDN works for routing a website visitor to the server that'll provide them with 
 ## Things I Want To Know More About
 
 - How would using CDNs help us at our level?
+
+## Class Notes
+
+- S3
+  - Buckets are created by EB, itself
+  - S3 is like a Repo on github
+  - each 'bucket' is like a 'folder' to store files
+  - this is less like 'data storage' and more like a 'file system' like windows explorer and finder
+    - or like github
+  - creating a bucket:
+    - name bucket (name must be GLOBALLY unique)
+
+- Lambda functions
+  - 'stateless micro-servers' - functions that run in the cloud in response to some 'event'
+  - performing a smaller 'step' for larger applications
+  - 'stateless', because they don't store information
+    - any variables created during the runtime will be gone after it's done
+  - use the same 'architecture' as your local machine
 
 [Previous Reading](./class-16.md)
 
