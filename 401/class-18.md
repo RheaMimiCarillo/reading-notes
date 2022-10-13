@@ -72,6 +72,14 @@ It's a tool for formatting data for use with DynamoDB. It's heavily inspired by 
 
 - Why would we want to use DynamoDB, realistically? It seems quite limited, in comparison to Mongoose.
 
+## In-class notes
+
+DynamoDB - another Document Based Database
+
+- There is no data validation and such, so you can upload anything you want
+- Dynamoose (ORM) - Object Relational Mapping
+  - We'll use our ORM to handle updating our Dynamo database
+
 [Previous Reading](./class-17.md)
 
 [Next Reading](./class-19.md)
