@@ -3,10 +3,15 @@
 ## [react hello world](https://facebook.github.io/react/docs/hello-world.html){:target="_blank"}
 
 **1. What are the building blocks of a React app?**
+Components and elements.
 
 **2. What is the difference between an element and a React component?**
 
+A React element is closer to plain-ol-HTML whilst a React component returns React Elements.
+
 **3. What are some advantages of React's component based architecture?**
+
+The main advantage of React's components are that they can be dynamic and respond to changes in state or user input.
 
 ## [introducing JSX](https://facebook.github.io/react/docs/introducing-jsx.html){:target="_blank"}
 
