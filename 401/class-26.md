@@ -3,6 +3,7 @@
 ## [react hello world](https://facebook.github.io/react/docs/hello-world.html){:target="_blank"}
 
 **1. What are the building blocks of a React app?**
+
 Components and elements.
 
 **2. What is the difference between an element and a React component?**
