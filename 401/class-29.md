@@ -27,11 +27,88 @@ a reducer
 
 **3. Explain `dispatch` to a non-technical recruiter.**
 
-
-
 ## Things I Want To Know More About
 
 - How similar is this reducer to the array reduce function that we know and love?
+- How appropriate is useReducer for API calls? 
+
+## In-class notes
+
+- Reducer: a function that takes in 'state' and an 'action' as parameters, and returns a brand-new state object
+  - State - values that we care about (in object-literal format)
+  - Action - a string and a payload
+
+``` JavaScript
+
+```
+
+``` JavaScript
+// reducer template:
+// reducer = (state, action) => new State;
+
+const initialState = {
+  message: [],
+  user: [],
+}
+
+const addMessage = messageText =>
+{
+  return {
+    type: 'ADD_MESSAGE',
+    payload: messageText,
+  }
+}
+
+function reducer(state, action) 
+{
+  if(action.type == 'ADD_MESSAGE'){
+    return{
+      // use the current values, as well as the ones from the payload
+      messages: [...state.messages, action.payload],
+      users: [...state.users],
+    }
+  else
+  {
+    // return the initial state, unchanged
+    return state;
+  }
+  }
+
+  // new state to return
+  return{
+
+  }
+}
+const updatedState = reducer(initialState, addMessage('Hello'));
+
+console.log('the state we started with(still in state) and the processed state, using the reducer', initialState, updatedState);
+
+
+```
+
+- useReducer Hook
+
+  - useReducer takes in an initial state (object), as well as a reducer function
+  - the `action` is sort of like a request to a server, in that we attach the `type` of request/action we want to run, as well as a body/`payload`
+  - we'd want a reduce for each function a component might have
+
+``` JavaScript
+  function App() {
+
+    const initialState = {
+      message: [],
+      user: [],
+    }
+
+    let [state, dispatch ] = useReducer(reducer, initialState);
+
+    return(
+      <ul>
+        {/* return list of items */}
+      </ul>
+    )
+  }
+```
 
 [Previous Reading](./class-28.md)
 
