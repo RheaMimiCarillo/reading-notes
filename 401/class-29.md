@@ -19,6 +19,9 @@
 > Being able to more easily update multiple related fields in a single state update
 >
 > Writing state update logic that can be tested outside the component, because a reducer is just a function
+>
+> There are many good comments on when to use reducers vs. use states. Most of them agree that reducers are very helpful **when dealing with many states that depend on each other.**
+> > The specific use case that comes up for me a lot is when your local state is a complex object or array of objects and you don't want to have to overwrite the whole thing to make an update.
 
 **3. What are two ways to set the initial state?**
 
