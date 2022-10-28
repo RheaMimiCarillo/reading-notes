@@ -10,6 +10,16 @@
 
 `useReducer` might hook in cases where there is complex logic that requires multiple-sub values, or where one state relies on a previous one. `useReducer` allows us to optimize performance, because we can pass DOWN logic instead of being forced to do callbacks.
 
+**Quote:**
+
+> Main use cases are:
+>
+> Writing more complex state update logic than just "overwrite the entire previous value"
+>
+> Being able to more easily update multiple related fields in a single state update
+>
+> Writing state update logic that can be tested outside the component, because a reducer is just a function
+
 **3. What are two ways to set the initial state?**
 
 1. pass initial state as the second argument
@@ -30,17 +40,13 @@ a reducer
 ## Things I Want To Know More About
 
 - How similar is this reducer to the array reduce function that we know and love?
-- How appropriate is useReducer for API calls? 
+- How appropriate is useReducer for API calls?
 
 ## In-class notes
 
 - Reducer: a function that takes in 'state' and an 'action' as parameters, and returns a brand-new state object
   - State - values that we care about (in object-literal format)
   - Action - a string and a payload
-
-``` JavaScript
-
-```
 
 ``` JavaScript
 // reducer template:
