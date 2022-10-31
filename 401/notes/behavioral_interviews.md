@@ -19,7 +19,7 @@ Answers to stories should have a 'point'.
 - interviewing can always be nerveracking
 - in-person, we all have tells that gives away how uncomfortable we are
   - Action: figure out what my tells are, then come prepared with a strategy to address each tell
-    - example: feet flat on ground to address shaking
+    - example: feet flat on ground tn ,mo address shaking
     - hanky to address sweating
     - think of close up voice idea?
       - oh! bring a warhead to help salivate my whole tongue
