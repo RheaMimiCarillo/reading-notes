@@ -36,6 +36,13 @@ My learning goal is to develop solid fundamental programming principles, so I ca
 
 - I would like to know more about how we can easily make buttons to toggle a light and dark mode, without having to use inline styles.
 
+## In-class Note
+
+- "if you find yourself passing the same props to sibling components over and over, that may be a good candidate for `Context`"
+- Utilized the 'observer pattern'
+  - 'Consumer' = listener = subscriber
+  - 'Provider' = publisher
+
 [Previous Reading](./class-29.md)
 
 [Next Reading](./class-32.md)
