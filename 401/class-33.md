@@ -4,9 +4,19 @@
 
 **1. What is Role Based Access Control (RBAC)?**
 
+RBAC is when an organization has roles and each role has certain permissions assigned to them. Members of the organization can access to different bits of a network appropriate to their assigned roles.
+
 **2. Share some an example of RBAC including all possible CRUD operations and correlating roles.**
 
+- Admin: GET, POST, PUT, DELETE
+- Editor: GET, PUT
+- Author: GET, POST
+- User: GET
+
 **3. What are the Benefits of RBAC?**
+
+1. Reduce the time spent on administrative tasks
+2. Easier time complying to government regulations
 
  ***Compare and Contrast  the following two Libraries and the following questions.  Yes, they are similarly named.***
 

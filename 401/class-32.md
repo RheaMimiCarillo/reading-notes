@@ -35,6 +35,8 @@ My learning goal for this lecture is to better understand the syntax and impleme
 
 - I would like to know if my hashtable class is set up properly. I got it to work on Sunday night, but I feel like I kind of hacked my way into making it work with the provided LinkedList and Node classes.
 
+## In-class Notes
+
 [Previous Reading](./class-31.md)
 
 [Next Reading](./class-33.md)
