@@ -18,9 +18,15 @@ We're using Thunk middleware to reuse logic without having to know which redux s
 
 **1. Why would you need `redux-thunk` middleware?**
 
+We use thunk, so we can do side-effects on a dispatch action outside of a reducer.
+
 **2. Redux Thunk middleware allows you to write action creators that return a ________ instead of an action.**
 
+`function`
+
 **3. Describe how any return value from the inner thunk function will be made available.**
+
+Return from inner functions will be available as return values of `dispatch` itself
 
 ## Additional Questions
 
