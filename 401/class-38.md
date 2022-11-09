@@ -4,9 +4,15 @@
 
 **1. Why use Redux middleware?**
 
+We don't want a reducer to do `side effects` so we use middleware (that can do anything), so the reducer doesn't have to.
+
 **2. Consider the Redux Async Data Flow Diagram.  Describe the flow in your own words.**
 
+A user hits a button, which sets off a dispatch to a middleware that makes an API request, which triggers a real dispatch action for the reducer, which returns a brand-new state.S
+
 **3. How are we accommodating async in our Redux app?**
+
+We're using Thunk middleware to reuse logic without having to know which redux store we're using beforehand.
 
 ## [thunk middleware](https://github.com/reduxjs/redux-thunk){:target="_blank"}
 
