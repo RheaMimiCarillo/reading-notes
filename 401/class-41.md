@@ -75,6 +75,56 @@ My learning goal is to learn the tradeoff between developing with Expo, as oppos
 
 - I would like to know more about Kotlin and Objective-C.
 
+## In-class notes
+
+### Warmup: Binary Search of an Array
+
+Given a sorted array of integers, and a search key write a function to search the array for the search key using binary search. Return a boolean.
+
+``` JavaScript
+
+/* Strategy: 
+
+  Binary Search is like what we do with a BST
+  This binary search will look a lot like the merge sort we've done
+
+  We'll use the 'divide an conquer` strategy
+
+  1. calculate highNum and lowNum of array
+  2. calculate midpoint of array from start and end
+  3. split array into halves
+  4. check which array's contains our search key using the highNum/lowNum from the array
+    - and then only search that array
+  5. keep splitting until we can't split anymore
+    - can be a max of 3/4 splits, depending on the size of the input array
+  6. return true, if found, split (if split-able),
+  7. if not split-able, return false
+*/
+
+
+
+```
+
+### React Native vs Web Differences
+
+APIs: There are a whole different set of built-in APIs for Web and Mobile environments:
+
+| Web                  | App                      |
+|----------------------|--------------------------|
+| DOM                  | Camera                   |
+| Events               | Contacts                 |
+| localStorage         | Accelerometers/gyroscope |
+| XmlHTTPRequestObject | Biometric auth           |
+
+### Similarities
+
+|                              | Web                                           | App                                    |
+|------------------------------|-----------------------------------------------|----------------------------------------|
+| Writing in JS                | Compiles to Vanilla HTML, CSS, and JavaScript | Compiles to either Objective-C or Java |
+| Development environment      | Access to Node.js and Node Modules            | Access to Node.js and Node Modules     |
+| Can't use `create-react-app` | Uses `Expo`                                   | Uses `Expo`                            |
+
+
 [Previous Reading](./class-39.md)
 
 [Next Reading](./class-43.md)
