@@ -109,7 +109,7 @@ Given a sorted array of integers, and a search key write a function to search th
 
 APIs: There are a whole different set of built-in APIs for Web and Mobile environments:
 
-| Web                  | App                      |
+| **Web**                  | **App**                      |
 |----------------------|--------------------------|
 | DOM                  | Camera                   |
 | Events               | Contacts                 |
@@ -118,12 +118,23 @@ APIs: There are a whole different set of built-in APIs for Web and Mobile enviro
 
 ### Similarities
 
-|                              | Web                                           | App                                    |
+|                              | **Web**                                           | **App**                                    |
 |------------------------------|-----------------------------------------------|----------------------------------------|
 | Writing in JS                | Compiles to Vanilla HTML, CSS, and JavaScript | Compiles to either Objective-C or Java |
 | Development environment      | Access to Node.js and Node Modules            | Access to Node.js and Node Modules     |
 | Can't use `create-react-app` | Uses `Expo`                                   | Uses `Expo`                            |
 
+
+### Development Tools
+
+1) Android Studio - IDE and platform tools for Android
+  - can run on multiple Operating Systems
+
+2) Xcode - IDE and platform tools for iOS and apple products
+  - can only run on MacOS
+
+3) Phones - `expo` lets us run our development built on our phones
+  - install the `Expo go` app
 
 [Previous Reading](./class-39.md)
 
