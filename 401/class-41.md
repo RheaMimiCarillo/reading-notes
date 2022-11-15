@@ -120,9 +120,10 @@ APIs: There are a whole different set of built-in APIs for Web and Mobile enviro
 
 |                              | **Web**                                           | **App**                                    |
 |------------------------------|-----------------------------------------------|----------------------------------------|
-| Writing in JS                | Compiles to Vanilla HTML, CSS, and JavaScript | Compiles to either Objective-C or Java |
-| Development environment      | Access to Node.js and Node Modules            | Access to Node.js and Node Modules     |
-| Can't use `create-react-app` | Uses `Expo`                                   | Uses `Expo`                            |
+| **Writing in JS**                | Compiles to Vanilla HTML, CSS, and JavaScript | Compiles to either Objective-C or Java |
+| **Development environment**      | Access to Node.js and Node Modules            | Access to Node.js and Node Modules     |
+| **Can't use `create-react-app`** | Uses `Expo`                                   | Uses `Expo`                            |
+| **No more `box model`** | think of everything as `flex`, where they want to take up the space in the container                                    |we still have boxes, but they rules don't work the same                             |
 
 
 ### Development Tools
