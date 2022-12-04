@@ -10,3 +10,7 @@ These articles will help you learn more about open-source contributions.
 
 
 ## Reflection
+
+I want to contribute to free and open source software projects, but I don't know where to start. The idea of contributing to something so large and widely used without the direct guidance of an expert feels daunting! Maybe it's my imposter-syndrome talking, but I don't feel an intrinsic sense of 'preparedness' when it comes to developing production apps with strangers.
+
+I like that the there are multiple resources and encouraging guides for making open-source contributions. The anxiety has paralyzed from even explore tickets I could help resolve or just contribute to. I'd imagine that there are plenty of little tasks my training and tenacity can see me through. Robert has already looked at some and found some silly errors that are well within our current capabilities, which is also reassuring. Having community is wonderful and I feel empowered to do well within it.
