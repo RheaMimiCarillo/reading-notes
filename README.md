@@ -39,7 +39,7 @@
 
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
-### Module 1
+### Week 1
 
 - Day 01: [Node Ecosystem](/401/class-01.md)
 - Day 02: [Express, NPM, TDD, CI/CD](/401/class-02.md)
@@ -47,14 +47,14 @@
 - Day 04: [Data Modeling](/401/class-04.md)
 - Day 05: [Linked Lists](/401/class-05.md)
 
-### Module 2
+### Week 2
 
 - Day 06: [Authentication](/401/class-06.md)
 - Day 07: [Bearer Authorization](/401/class-07.md)
 - Day 08: [Access Control (ACL)](/401/class-08.md)
 - Day 10: [Stacks and Queues](/401/class-10.md)
 
-### Module 3
+### Week 3
 
 - Day 11: [Event Driven Applications](/401/class-11.md)
 - Day 12: [Socket.io](/401/class-12.md)
@@ -62,18 +62,18 @@
 - Day 14: [Event Driven Architecture](/401/class-14.md)
 - Day 15: [Trees](/401/class-15.md)
 
-### Module 4
+### Week 4
 
 - Day 16: [AWS: Cloud Servers](/401/class-16.md)
 - Day 17: [AWS: S3 and Lambda](/401/class-17.md)
 - Day 18: [AWS: API, Dynamo and Lambda](/401/class-18.md)
 - Day 19: [AWS: Events](/401/class-19.md)
 
-### Module 5
+### Week 5
 
 (midterm projects week)
 
-### Module 6
+### Week 6
 
 - Day 26: [Component Based UI](/401/class-26.md)
 - Day 27: [`useState()` Hook](/401/class-27.md)
@@ -81,7 +81,7 @@
 - Day 29: [Advanced State with Reducers](/401/class-29.md)
 - Day 30: [Hash Tables](/401/class-30.md)
 
-### Module 7
+### Week 7
 
 - Day 31: [Context API](/401/class-31.md)
 - Day 32: [Context API - Behaviors](/401/class-32.md)
@@ -89,22 +89,18 @@
 - Day 34: [API Integration](/401/class-34.md)
 - Day 35: [Graphs](/401/class-35.md)
 
-### Module 8
+### Week 8
 
 - Day 36: [Application State with Redux](/401/class-36.md)
 - Day 37: [Redux - Combined Reducers](/401/class-37.md)
 - Day 38: [Redux - Asynchronous Actions](/401/class-38.md)
 - Day 39: [Redux - Additional Topics](/401/class-39.md)
 
-### Module 9
+### Week 9
 
 - Day 41: [React Native](/401/class-41.md)
 - Day 42: [Ethics](/401/class-42.md)
 - Day 43: [Open-Source Software Contribution](/401/class-43.md)
-
-### Module 10
-
-(final projects week)
 
 ## Resources
 
