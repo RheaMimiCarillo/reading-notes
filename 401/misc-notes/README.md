@@ -1,4 +1,4 @@
-# miscellaneous Notes
+# Miscellaneous Notes
 
 - [🔗 Seven Steps to Success](seven-steps.md)
 - [🔗 Behavioral Interviews](behavioral_interviews.md)
