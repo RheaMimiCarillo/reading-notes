@@ -102,6 +102,11 @@
 - Day 42: [🔗 Ethics](/401/class-42.md)
 - Day 43: [🔗 Open-Source Software Contribution](/401/class-43.md)
 
+
+## Misc Notes
+
+- [🔗 Misc Notes](401/misc-notes/README.md)
+
 ## Resources
 
 - [🔗 Common Mark](https://commonmark.org/help/tutorial/index.html)
