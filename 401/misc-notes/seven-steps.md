@@ -1,3 +1,5 @@
+# Seven Steps to Success in Tech
+
 1. graduate from codefellows
 
 2. looking for work (resume)
