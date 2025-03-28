@@ -1,7 +1,5 @@
 # Code Fellows Reading Notes
 
-![This is a silly image of me](./images/banner%201400x422.png)
-
 ## Code 201 - Foundations of Software Development
 
 - Class 01: [Overview](/201/class-01.md)
