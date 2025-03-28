@@ -2,7 +2,7 @@
 
 - [🔗 Seven Steps to Success](seven-steps.md)
 - [🔗 Behavioral Interviews](behavioral_interviews.md)
-- [🔗 Technical Interviews](technical_interview.md)
+- [🔗 Technical Interviews](technical_interviews.md)
 - [🔗 Whiteboarding Strategies for Technical Interviews](whiteboard_interview_strategy.md)
 - [🔗 Data Structures & Algorithms](../prep-work/data_structures_and_algorithms.md)
 - [🔗 How To Think Like An Engineer](../prep-work/engineering_readings.md)
