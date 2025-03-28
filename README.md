@@ -1,4 +1,4 @@
-# Code Fellows Reading Notes
+# Code Fellows Topic Of The Day
 
 ## Code 201 - Foundations of Software Development
 
